@@ -6,36 +6,37 @@ My curiosity led me to complete [Harvard's CS50 course](https://pll.harvard.edu/
 ## Technology
 
 ### Frontend
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/html5-plain.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/css3-plain.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/javascript-plain.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/typescript-original.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/react-original.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/nextjs-line.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/chakraui-original.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/tailwindcss-plain.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/html5-plain.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/css3-plain.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/javascript-plain.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/typescript-original.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/react-original.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/nextjs-line.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/chakraui-original.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/tailwindcss-plain.svg"><img>
 
 ### Backend
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/nodejs-original-wordmark.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/express-original.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/mongodb-original-wordmark.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/amazonwebservices-original.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/nodejs-original-wordmark.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/express-original.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/mongodb-original-wordmark.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/amazonwebservices-original.svg"><img>
 
 ### Technologies
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/vscode-original.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/figma-original.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/postman-icon.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/vite-icon.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/npm-original-wordmark.svg"><img>
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/jest-plain.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/vscode-original.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/figma-original.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/postman-icon.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/vite-icon.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/npm-original-wordmark.svg"><img>
+<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/jest-plain.svg"><img>
 
 ## Social
-<img width="70" src="https://github.com/v-sudo29/v-sudo29/blob/main/linkedin-original.svg"><img>
+[<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/linkedin-original.svg"><img>](https://www.linkedin.com/in/victoria-nguyen97/)
+
 
 ## Hobbies
 Here are my hobbies I do outside of coding:
 - 📚 Read one book a week
-- 💃🏻 Dance (Hip-hop, waving, choreography)
+- 💃🏻 Dance (hip-hop, waving, choreography)
 - 🌳 Hike to find peace in nature
 
 <!--
