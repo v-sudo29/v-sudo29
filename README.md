@@ -16,6 +16,12 @@ My curiosity led me to complete [Harvard's CS50 course](https://pll.harvard.edu/
 <img width="80" src="https://github.com/v-sudo29/v-sudo29/blob/main/chakraui-original.svg"><img>
 <img width="80" src="https://github.com/v-sudo29/v-sudo29/blob/main/tailwindcss-plain.svg"><img>
 
+### Backend
+<img width="80" src="https://github.com/v-sudo29/v-sudo29/blob/main/nodejs-original-wordmark.svg"><img>
+<img width="80" src="https://github.com/v-sudo29/v-sudo29/blob/main/express-original.svg"><img>
+<img width="80" src="https://github.com/v-sudo29/v-sudo29/blob/main/mongodb-original-wordmark.svg"><img>
+<img width="80" src="https://github.com/v-sudo29/v-sudo29/blob/main/amazonwebservices-original.svg"><img>
+
 
 <!--
 **v-sudo29/v-sudo29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
