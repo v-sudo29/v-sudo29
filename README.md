@@ -6,7 +6,7 @@ My curiosity led me to complete [Harvard's CS50](https://pll.harvard.edu/course/
 ### 🔭 Projects I'm currently working on
 - [GreatReads](https://github.com/v-sudo29/great-reads)
 
-### 🌱 I'm currently learning
+### 🌱 Courses I'm currently taking
 - [IBM's Frontend Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
 
 
