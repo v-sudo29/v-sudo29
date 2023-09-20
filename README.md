@@ -1,7 +1,14 @@
 # Hi there 👋 I'm Victoria.
-I am a frontend developer. Passionate about solving problems and challenging myself.
+I am a frontend developer. Passionate about solving problems and I thrive in situations where I can challenge myself.
 
 My curiosity led me to complete [Harvard's CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) course which made me fall completely in love with programming! I then immersed myself in [The Odin Project's](https://www.theodinproject.com/) JavaScript full-stack curriculum for 8 months, advancing my skills in building for the web. Now as a frontend developer, I seek new projects to put these skills to use, strengthening my abilities through challenging myself continuously.
+
+### 🔭 Projects I'm currently working on
+- [GreatReads](https://github.com/v-sudo29/great-reads)
+
+### 🌱 I'm currently learning
+- [IBM's Frontend Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
+
 
 ## Technology
 
@@ -28,10 +35,6 @@ My curiosity led me to complete [Harvard's CS50](https://pll.harvard.edu/course/
 <img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/vite-icon.svg"><img>
 <img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/npm-original-wordmark.svg"><img>
 <img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/jest-plain.svg"><img>
-
-## Social
-[<img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/linkedin-original.svg"><img>](https://www.linkedin.com/in/victoria-nguyen97/)
-
 
 ## Hobbies
 Here are my hobbies I do outside of coding:
