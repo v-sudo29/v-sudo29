@@ -5,7 +5,7 @@ My curiosity led me to complete [Harvard's CS50](https://pll.harvard.edu/course/
 
 ### 🔭 Projects I'm currently working on
 - Implementing Google Analytics to [Dideals](https://github.com/v-sudo29/steam-games)
-- [GreatReads](https://github.com/v-sudo29/great-reads)
+- Working with a designer for [GreatReads](https://github.com/v-sudo29/great-reads) design mockups and prototypes
 
 ### 🌱 Courses I'm currently taking
 - [IBM's Frontend Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
