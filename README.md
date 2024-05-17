@@ -1,18 +1,6 @@
 # Hi there 👋 I'm Victoria.
 I am a frontend developer. Passionate about solving problems and putting myself in situations where I can challenge myself.
 
-My curiosity led me to complete [Harvard's CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) course which made me fall completely in love with programming! I then immersed myself in [The Odin Project's](https://www.theodinproject.com/) JavaScript full-stack curriculum, advancing my skills in building for the web. Now as a frontend developer, I seek new projects to put these skills to use, strengthening my abilities through challenging myself continuously.
-
-### 🔭 Projects I'm currently working on
-- Adding unit and integration tests to [Dideals](https://github.com/v-sudo29/steam-games)
-- Working with a designer for [GreatReads](https://github.com/v-sudo29/great-reads) to design mockups and prototypes
-
-### 🌱 Courses I'm currently taking
-- [IBM's Frontend Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
-
-
-## Technology
-
 ### Frontend
 <img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/html5-plain.svg"><img>
 <img width="50" src="https://github.com/v-sudo29/v-sudo29/blob/main/css3-plain.svg"><img>
